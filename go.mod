@@ -1,3 +1,3 @@
-module quiz-game
+module github.com/luhamoza/quiz-game
 
-go 1.21
+go 1.21.4
